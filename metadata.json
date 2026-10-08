@@ -1,0 +1,6 @@
+{
+  "name": "SumCollapse - The Sudoku Addition Puzzle",
+  "description": "A recursive mathematical puzzle where 3x3 blocks collapse into sums until the meta-grid is solved.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
